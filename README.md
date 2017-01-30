@@ -1,2 +1,2 @@
-# javascript-swipeable-cards
-Turing School homework, create swipeable cards w JavaScript.
+# Swipeable Cards
+Turing School homework, create swipeable cards with JavaScript.

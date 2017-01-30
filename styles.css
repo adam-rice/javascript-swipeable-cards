@@ -1,0 +1,32 @@
+html, body {
+  background: lightblue;
+  color: #333;
+  font-family: Arial;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.card-container {
+  width: 100%;
+  max-width: 450px;
+  padding: 16px;
+  margin: 0 auto;
+}
+
+.card {
+  background: #FFF;
+  border-radius: 3px;
+  box-shadow: 0 3px 4px rgba(0,0,0,0.3);
+  color: navy;
+  margin: 20px 0;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  cursor: pointer;
+}
